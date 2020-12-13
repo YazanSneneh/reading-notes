@@ -20,7 +20,7 @@
 # second: github pages.
  *  github pages allow me to share my website i created online (can be accessed on the internet like google or facebook).
  
- ## steps to make github page.
+## steps to make github page.
    * how to find it. 
     1. go to repos main page.
     2. select repo want to publish.
