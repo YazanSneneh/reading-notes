@@ -1,47 +1,28 @@
-# first: Markdown
- 1. Mark down is a lightweight text format style text when the browser read it and make it similar to html.
- 2. the extention of markdown is either **.md** or **.markdown**
-
-### Why I use it ?
- 1. to add details about software
-    *what is the software is all about.*
- 2. lightweight.
-    * unlike html, markdown give me only styling but no control on it like html.
-    * unlike notepad it was build to help style my documentation.
+# growth mindset vs fixed mindset
+   *Mindset* means how we view ourself and the world, how we think and see things.
     
- ### how to use it ?
- *go to the link to learn more*
- **[mastering markdown]( https://guides.github.com/features/mastering-markdown/)**
-
-# when to use it?
-  1. when i want to relate a document to my repo so other developers can read it easily.
-  2. report bugs and issues about software.
-
-# second: github pages.
- *  github pages allow me to share my website i created online (can be accessed on the internet like google or facebook).
- 
-## steps to make github page.
-   * how to find it. 
-    1. go to repos main page.
-    2. select repo want to publish.
-    3. select setting from tabs bar.
-    4. scroll down to github pages.
-   
-   * how to create a github page.
-      1. by default github page is disabled, to activate it from pick branchs dropdown list pick main branch.
-      2. next to main branch keep it on root then save it.
-      3. page will refresh, scroll down back to github pages.
-      4. open the link above the github pages box.
-      5. congrates.
+    
+## there are two types of mindset
+ 1. **growth mindset**
+      People with *growth mindset* have traits help them grow and progress in life, 
+      for example when you give them a puzzle to solve they will challenge themselves and keep trying until they solve it.
       
-      # third: growth mindset vs fixed mindset.
-         1. mindset is a state of mind, it means how the person think and view the world and himself/herself.
-         * growth mindset: 
-            1. they step up to the challenge.
-            2. they keep growing and imporving.
-         * fixed:
-            1. they believe they are the way they are like everyone.
-            2. they believe intel is fixed since the day were born.
+      ### some of their traits
+          * they step up to the challenge.
+          * they have confident in their ablilties.
+          * they believe nothing is impossible.
+          * they keep scratching the image until it become clear.
+          
+ 2. **fixed mindset**
+      it's the opposite of *growth mindset*, they believe they are who they are since the day they are born thus they don't try.
+      
+      ### some of their traits 
+          * they tend to have less confident.
+          * they don't try to challenge themselves because they believe their disteny is fixed.
+          * they keep complaining about life
+          
+          
+          [about yazan](https://github.com/YazanSneneh)
     
-           
-            
+    
+    
