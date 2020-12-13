@@ -33,3 +33,15 @@
       3. page will refresh, scroll down back to github pages.
       4. open the link above the github pages box.
       5. congrates.
+      
+      # third: growth mindset vs fixed mindset.
+         1. mindset is a state of mind, it means how the person think and view the world and himself/herself.
+         * growth mindset: 
+            1. they step up to the challenge.
+            2. they keep growing and imporving.
+         * fixed:
+            1. they believe they are the way they are like everyone.
+            2. they believe intel is fixed since the day were born.
+    
+           
+            
