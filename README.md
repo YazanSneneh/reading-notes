@@ -10,4 +10,4 @@ Mark down is a lightweight text format style text when the browser read it.
     
  # how to use it ?
  * go to the link to learn more *
- ** [mastering markdown]( https://guides.github.com/features/mastering-markdown/) **
+ **[mastering markdown]( https://guides.github.com/features/mastering-markdown/)**
