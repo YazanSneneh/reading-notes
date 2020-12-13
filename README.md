@@ -21,7 +21,13 @@
           * they don't try to challenge themselves because they believe their disteny is fixed.
           * they keep complaining about life
           
-          
+
+## Growth Mindset Remainder
+    1. step up to the challenge.
+    2. always find a solution to any problem i face.
+    3. keep scratching the image until it become clear.
+    
+    *Yazan Abu Sneneh is a software engineer*
 ***[visit my page to know more about yazan](https://github.com/YazanSneneh)***
     
     
