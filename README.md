@@ -1,7 +1,7 @@
 # Markdown
 Mark down is a lightweight text format style text when the browser read it.
 
-#Why I use it ?
+# Why I use it ?
  * to add details about software
     * what is the software all about. *
  * lightweight.
