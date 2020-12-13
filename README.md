@@ -1,5 +1,6 @@
 # Markdown
-Mark down is a lightweight text format style text when the browser read it.
+ 1. Mark down is a lightweight text format style text when the browser read it and make it similar to html.
+ 2. the extention of markdown is either **.md** or **.markdown**
 
 # Why I use it ?
  1. to add details about software
