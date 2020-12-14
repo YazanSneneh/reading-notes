@@ -26,9 +26,9 @@
  1. step up to the challenge.
  2. always find a solution to any problem i face.
  3. keep scratching the image until it become clear.
+ 
+ [reading notes lab03](Create reading-notes-lab03)
     
  *Yazan Abu Sneneh is a software engineer*
 ***[visit my page to know more about yazan](https://github.com/YazanSneneh)***
-    
-    
     
