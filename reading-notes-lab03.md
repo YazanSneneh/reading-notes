@@ -10,5 +10,5 @@
       
       
 ## Setting up a Git Repository
-      * i make directory for the new project then add it to git using following command
+   * i make directory for the new project then add it to git using following command
            **git init**
