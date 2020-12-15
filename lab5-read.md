@@ -29,14 +29,14 @@
 
 ## BLOCK & INLINE ELEMENTS
    1. Block level elements look like they start on a new line Examples include the 
-    headings tag all levels, <p> and <div> elements.
+    headings tag all levels, paragraph tag and div elements.
     * it take full width of it's parent element.
     * it prevent any element from stacking on the same row before and after.
     * height depends on the content of the element.
     * if you specify dimention style you can customize the above.
    
-   2. Inline elements flow within the text and do not start on a new line. Examples 
-    include <b>, <i>, <img>, <em> and <span>.
+   2. Inline elements flow within the text and do not start on a new line.
+   Examples img tag.
     * it takes the conent width and height.
     * i can't apply margin and padding top or bottom.
     * can't edit hight and width.
