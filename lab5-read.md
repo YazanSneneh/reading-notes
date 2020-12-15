@@ -57,7 +57,7 @@
   * CSS treats each HTML element as if it appears in a box, and the background-color  property sets the color of the background for that box.
   * You can specify your choice of background color in the same three ways you can specify foreground colors.
 # opacity
-    * CSS3 introduces the opacity property which allows you to specify the opacity of an element and any of its child elements. and any of its child elements. The value is a number between 0.0 and 1.0.
+   * CSS3 introduces the opacity property which allows you to specify the opacity of an element and any of its child elements. and any of its child elements. The value is a number between 0.0 and 1.0.
 
 # SUMMARY
    * Color not only brings your site to life, but also helps convey the mood and evokes reactions.
