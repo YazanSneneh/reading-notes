@@ -29,7 +29,7 @@
 
 ## BLOCK & INLINE ELEMENTS
    1. Block level elements look like they start on a new line Examples include the 
-    <h1> - <h6>, <p> and <div> elements.
+    headings tag all levels, <p> and <div> elements.
     * it take full width of it's parent element.
     * it prevent any element from stacking on the same row before and after.
     * height depends on the content of the element.
