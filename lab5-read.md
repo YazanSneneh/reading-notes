@@ -1,3 +1,5 @@
+   NOTE this file is rendered in the github but not online
+
 # CSS
   CSS allows you to create rules that specify how the content of
   an element should appear. For example, you can specify that
