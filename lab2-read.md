@@ -1,4 +1,4 @@
-  ###note : it work normally in my github folder location but not online     
+  ### note : it work normally in my github folder location but not online     
   
 # CLI
 # there are 2 ways to communicate with computer
