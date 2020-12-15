@@ -1,4 +1,4 @@
-       
+  ###note : it work normally in my github folder location but not online     
 # GIT 
    * git stands for control version system, and it give me control over my project.
    * control version means whenever i finish a sigment of a project i take a snapshot or node shot for the project.
