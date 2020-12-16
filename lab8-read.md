@@ -3,16 +3,16 @@
 ## Logical Operators
    operators in javascript check 2 values and return a boolean true or false value
      * operators in js are
-       1. > : indicate value on left bigger than value on right.
-       2. < : indicate value on left smaller than value on right.
-       3. == : indicate value on left equal value on right.
-       4. ===: indicate value and type of expressions on left equal value on right.
-       5. >== : indicate value and type of expressions on left equal or bigger than expression on right.
-       6. <== : indicate value and type of expressions on left equal or smaller than expression on right.
-       7. !== : indicate value and type of expressions on left not equal to expression on right.
-       8. != : indicate value of expressions on left equal or bigger than expression on right.
-       9. >= : indicate value of expressions on left equal or bigger than expression on right.
-       10. <= : indicate value of expressions on left equal or smaller than expression on right.
+        1. > : indicate value on left bigger than value on right.
+        2. < : indicate value on left smaller than value on right.
+        3. == : indicate value on left equal value on right.
+        4. ===: indicate value and type of expressions on left equal value on right.
+        5. >== : indicate value and type of expressions on left equal or bigger than expression on right.
+        6. <== : indicate value and type of expressions on left equal or smaller than expression on right.
+        7. !== : indicate value and type of expressions on left not equal to expression on right.
+        8. != : indicate value of expressions on left equal or bigger than expression on right.
+        9. >= : indicate value of expressions on left equal or bigger than expression on right.
+        10. <= : indicate value of expressions on left equal or smaller than expression on right.
 
    * example : 
       1. 5 > 4     result : true
