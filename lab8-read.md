@@ -30,11 +30,8 @@
           | x | y | r |
           |---|---|---|
           | T | T | T |
-          |---|---|---|
           | T | F | F |
-          |---|---|---|
           | F | F | F |
-          |---|---|---|
    
    * Comparison operators in javascript used to compare two values or more and produce 1 boolean value either true or false.
      1. and operator and represented like this &&, at least all of inputs should be true.
