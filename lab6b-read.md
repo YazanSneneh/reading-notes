@@ -26,13 +26,13 @@
    3. machine language
       it's 0 or 1 , when there is electrical signal it's 1 and when there is no signal it's 0.
 # explination
-  when programmer run program it will run in ram.
-  then it read the file and recognize it's extention for example .cpp
-  there is a program called compiler will compile it so low level langauge can understand it the cpp file and process it to the assembly.
-  assembly will read file and translate it to machine code which is 0 or 1.
-  inside CPU machine has transistors stacked next to each others.
-  these transistor are keys or think of them as wires.
-  if wire is open or not connected will evaluate to 0 which is no signal.
-  if it's closed then will produce 1.
-  then cpu show it on screen.
+  * when programmer run program it will run in ram.
+  * then it read the file and recognize it's extention for example .cpp
+  * there is a program called compiler will compile it so low level langauge can understand it the cpp file and process it to the assembly.
+  * assembly will read file and translate it to machine code which is 0 or 1.
+  * inside CPU machine has transistors stacked next to each others.
+  * these transistor are keys or think of them as wires.
+  * if wire is open or not connected will evaluate to 0 which is no signal.
+  * if it's closed then will produce 1.
+  * then cpu show it on screen.
 
