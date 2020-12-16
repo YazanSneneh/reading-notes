@@ -1,5 +1,4 @@
 # **ALL my Read notes not working properly if i access them directly from the web, except the main README.md file**
-# I will ask Mr Tamim
 
 # A process that you can use when you are creating a new website.
   
