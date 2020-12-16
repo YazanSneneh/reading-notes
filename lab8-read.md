@@ -1,4 +1,4 @@
-# Operators 
+# Operators & Loops
 
 ## Logical Operators
    operators in javascript check 2 values and return a boolean true or false value
@@ -54,3 +54,31 @@
           | T | F | T | F |
           | F | F | F | T |
 
+## Loops
+  sometimes i want my code to run many times until i successfully achieve desired results.
+  for example i wanto to print multiplication of 5 number from 1 to 10 or i want user to keep trying to enter his password as long as he is entering it wrong.
+ 
+ * the classic way to achive this is to print 5 multiplication table 10 times manullay.
+ or use something called for loop
+  **For loop** is a statement allow me to run a piece of code automatically until a condition is satisfyed.
+  
+  syntax : 
+  for(i=1; i<=10; i++){
+        console.log(i *5)           
+    }
+    * explination : i = 1 : is the initial value where for gonna start
+                     i<=10 : is the condition when the loop should exit.
+                     i ++ : number of increaments the i will jump, 
+                     for example 1+2 means i will start counting 1+2 = 3 then 3+2 = 5 until it reach 11 will exit.
+                     
+   **While loop** is a statement allow me to run a piece of code automatically until a condition is satisfyed but the different here
+      is i don't know when the condition is satisfyed or true.
+      lets say i will check user password and if it's wrong i will give him chance to put the correct answer until he get it correctly.
+      
+   syntax:
+      password = ';'
+      i = 0;
+       while(password !== '12345'){
+        prompt('enter your password')
+       }
+       
