@@ -23,7 +23,7 @@
 ## Comparison Operators.
 
    * Comparison operators in javascript used to compare two values or more and produce 1 boolean value either true or false.
-     1. and operator and represented like this &&, at least all of inputs should be true.
+     1. AND operator represented like this &&, at least all of inputs should be true.
        * exapmle true == true  result true
                  true == false result false
        * table of truth for the AND
@@ -33,17 +33,24 @@
           | T | F | F |
           | F | F | F |
    
-   * Comparison operators in javascript used to compare two values or more and produce 1 boolean value either true or false.
-     1. and operator and represented like this &&, at least all of inputs should be true.
-       * exapmle true == true  result true
-                 true == false result false
-       * table of truth for the AND
+     2. OR operator represented like this ||, at least one of inputs should be true.
+       * exapmle false == false  result false
+                 true == false result true
+       * table of truth for the OR
           | x | y | r |
           |---|---|---|
           | T | T | T |
-          |---|---|---|
-          | T | F | F |
-          |---|---|---|
+          | T | F | T |
           | F | F | F |
-          |---|---|---|
+
+   2. not operator represented like this ! then followed by && operator or || operator, and it reverse the result and i will take OR operator in this explination
+       * exapmle !(false == false)  result true
+                 !(true == false) result false
+           because the ending result is true, not operator reverse it to false, vice versa
+       * table of truth for the OR
+          | x | y | r | -r  |
+          |---|---|---|---|
+          | T | T | T | F |
+          | T | F | T | F |
+          | F | F | F | T |
 
