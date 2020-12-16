@@ -1,6 +1,7 @@
-html and css design book
+# **ALL my Read notes not working properly if i access them directly from the web, except the main README.md file**
+# I will ask Mr Tamim
 
-#A process that you can use when you are creating a new website.
+# A process that you can use when you are creating a new website.
   
   1. How to understand the audience your site may attract and what information they will expect to find on it.
   2. How to organize information so that visitors can find what they are looking for.
