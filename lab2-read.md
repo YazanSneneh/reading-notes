@@ -63,5 +63,10 @@
          file [path]
    3. whenever we specify a file or directory on the command line it is actually a path. Also because directories are actually just a special type of file, it would be more accurate to say that a path is a means to get to a particular location in the system and that location is a file.
       
-     
-   
+## Why Choose CLI over GUI ?
+points| CLI|GUI |
+----------------|
+Resource|1|
+High Precision|2|
+Repetitive Tasks|3|
+Powerful|4|
