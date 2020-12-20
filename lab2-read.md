@@ -1,6 +1,4 @@
-  ### note : it work normally in my github folder location but not online     
-  
-# CLI
+  # CLI
 # there are 2 ways to communicate with computer
   1. The GUI - stands for graphical user interface
      it's the one we know and use all the time and interact with the computer throught it.
