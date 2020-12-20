@@ -10,8 +10,7 @@
 ## Differences Between A Fixed and A Growth Mindset when Faced With :
    Perseverance, gumption traps, and maintaining a growth mindset.
    1. Challenges:
-      I’m faced with a challenging coding problem, I have a tendency to work over one particular aspect of it again and again until I conclude that it’s impossible or that I’m incapable of solving it.
-
+     I’m faced with a challenging coding problem, I have a tendency to work over one particular aspect of it again and again until I conclude that it’s impossible or that I’m incapable of solving it.
       * Fixed Mindset: **avoid** 
         1. I’m in a fixed mindset and avoiding the problem by giving up.
       * Growth Mindset: **Embrace**
@@ -22,21 +21,17 @@
    
    2. Obstacles: 
      My first impulse when I hit a roadblock.
-      
       * Fixed Mindset: **Lose Focus** 
-        1. divert attention to something else. lose focus.
-        2. just about anything to delay keeping at it and fighting through the discomfort.
-        3. “instant gratification monkey syndrome.” It’s the idea that we’ll do just about anything other than the actual task.
+        1. instant gratification monkey syndrome.” It’s the idea that we’ll do just about anything other than the actual task.
       * Growth Mindset: **Presists*
-        1.  recognizing what’s happening (I’m avoiding and losing focus).
-        2.  make peace with it.
-        3.  un-traps just enough of my gumption to do one more thing on the project.
-        4.  Then another one more thing.
-        5.  Eventually, enough momentum builds up and I’m back in the groove.
+        1. recognizing what’s happening (I’m avoiding and losing focus).
+        2. make peace with it.
+        3. un-traps just enough of my gumption to do one more thing on the project.
+        4. Then another one more thing.
+        5. Eventually, enough momentum builds up and I’m back in the groove.
 
    3. Effort:
-       troubles with cycling. When my alarm goes off at 5 A.M., the thought of going out on the bike is dreadful.
-      
+     troubles with cycling. When my alarm goes off at 5 A.M., the thought of going out on the bike is dreadful.
       * Fixed Mindset: **Views as fruitless**
         1. The temptation to stay in bed is strong, instant gratification monkey again.
         2. know the feeling of staying in bed won’t last and I’ll feel guilty later.
@@ -54,9 +49,9 @@
       and I find myself with very little to look back on positively.
       
       * Fixed Mindset: **Avoid it**:
-        1. haven’t managed to get things together
-        2. procrastinated and wasted time.
-        3. find myself with very little to look back on positively
+       1. haven’t managed to get things together
+       2. procrastinated and wasted time.
+       3. find myself with very little to look back on positively
      
       * Growth Mindset: **Learn from it**
       **ask myself two questions to gain growth mindset on criticism.**
@@ -69,10 +64,10 @@
         2. What can I do to improve the aspects I’m less proud of?
       
    5. Success of Others:
-      * Fixed Mindset: **See it as a threat**
+     * Fixed Mindset: **See it as a threat**
         1. Jealous of people, thought were more successful or more intelligent.
         2. Fixed mindset leads you to see the success of others as a threat
-      * Growth Mindset: **See it as inspiration**
+     * Growth Mindset: **See it as inspiration**
         1. See others as dedicated colleagues with a passion for learning.
         2. Growth mindset encourages you to see the success of coworkers as an inspiration.
 
@@ -89,4 +84,5 @@
     
  *Yazan Abu Sneneh is a software engineer*
 ***[visit my page to know more about yazan](https://github.com/YazanSneneh)***
+Link to resource [Growth Mindset](https://www.atlassian.com/blog/inside-atlassian/growth-mindset)
     
