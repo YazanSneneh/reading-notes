@@ -51,14 +51,14 @@
      * i use it to rename too.  `mv file.txt file2.txt`
     
    * rm - remove file `rm file.txt`.
-     * rm -r to remove folder including files inside : `rm -r folderName`
+      * rm -r to remove folder including files inside : `rm -r folderName`
      
    * mkdir - create folder in current path `mkdir folderName`
    
    * touch - create file in current path `touch file.`
    
-   echo - write on screen `echo 'hi' output: hi`
-   echo > fileName.txt : write inside file
+   * echo - write on screen `echo 'hi' output: hi`
+      * echo > fileName.txt : write inside file
    
 # FILES in linux
   linux is that under the hood, everything is actually a file. A text file is a file, a directory is a file, your keyboard is a file (one that the system reads from only), your monitor is a file (one that the system writes to only) etc.
