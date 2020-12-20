@@ -52,7 +52,14 @@
     
    * rm - remove file `rm file.txt`.
      * rm -r to remove folder including files inside : `rm -r folderName`
-
+     
+   * mkdir - create folder in current path `mkdir folderName`
+   
+   * touch - create file in current path `touch file.`
+   
+   echo - write on screen `echo 'hi' output: hi`
+   echo > fileName.txt : write inside file
+   
 # FILES in linux
   linux is that under the hood, everything is actually a file. A text file is a file, a directory is a file, your keyboard is a file (one that the system reads from only), your monitor is a file (one that the system writes to only) etc.
   
@@ -64,14 +71,13 @@
    3. whenever we specify a file or directory on the command line it is actually a path. Also because directories are actually just a special type of file, it would be more accurate to say that a path is a means to get to a particular location in the system and that location is a file.
       
 ## Why Choose CLI over GUI ?
-
  * Resource: text-based program needs very little resources of your computer
    * CLI :  do tasks with minimum resources.
    * GUI : Require Visual process.
  * High Precision: 
    * can use a specific command to target specific destinations with ease. As long as you don’t type the wrong command.
  * Repetitive Tasks Friendly :
-    * GUI : operating system may not give you all the menus and buttons to perform all tasks. One of the reasons is safety. This leaves you overwhelmed if you have to do     repetitive tasks.
+    * GUI : operating system may not give you all the menus and buttons to perform all tasks. One of the reasons is safety. This leaves you overwhelmed if you have to do   repetitive tasks.
     * CLI : handle hundreds of files within a folder, CLI enables you to use a single command to do automate the repetition easily.
  * Powerful : Most operating systems today prevent you from messing up the system’s core process.
     * GUI: You won’t be able to perform certain tasks which are system protected. 
