@@ -24,7 +24,7 @@
    * When you enter commands, they are actually stored in a history. You can traverse this history using the up and down arrow keys. So don't bother re-typing out commands you   have previously entered.
    * When you start typing a path (anywhere on the command line, you're not just limited to certain commands) you may hit the Tab key on your keyboard at any time which will  invoke an auto complete action.
 
-##USING CLI
+## USING CLI
  * most commands consist of: the command itself, the argument, and the option.
  * command contains the instruction we want to perform, the argument tells where the command should operate and the option requests the modification of the output.
  * there are many commands you can use with CLI, they all fall into two categories:
@@ -34,19 +34,24 @@
   * pwd - stands for print working directory and print the current url where I stand.
      example result : ya@a: /home/yaz
   
-  * ls - stands for list and it list all files and directorys inside location i stand right now and it takes options tho.
-      example results:   bin   Documents  public_html    file.txt
+  * ls - List files in directory.
+      example results:   `bin   Documents  public_html    file.txt`.
        
       **options:**
         there are many options but these are most used and we can combine them.
         1. ls -l : stands for long listing and it return directories and files with informations and show permissions read write.
         2. ls -t : sort by time & date
-        3. ls -a : list all files including hidden file starting with '.'
+        3. ls -a : list all files including hidden file starting with:  `.git .gitignore bin   Documents  public_html    file.txt`
   
   * cd - stands for change directory, it allow me to navigate around directories.
        example : **yaz@a: cd document** will navigate me to document file.
        **NOTE**: If you run the command cd without any arguments then it will always take you back to your home directory.
-
+### manipulation of files
+   * mv - move file from source to distination if dist not found will create one and trasfer everything in source to new file.
+     * i use it to rename too.  `mv file.txt file2.txt`
+    
+   * rm - remove file `rm file.txt`.
+     * rm -r to remove folder including files inside : `rm -r folderName`
 
 # FILES in linux
   linux is that under the hood, everything is actually a file. A text file is a file, a directory is a file, your keyboard is a file (one that the system reads from only), your monitor is a file (one that the system writes to only) etc.
