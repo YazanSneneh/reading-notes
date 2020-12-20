@@ -22,10 +22,10 @@
  
 ## steps to make github page.
    * how to find it. 
-    1. go to repos main page.
-    2. select repo want to publish.
-    3. select setting from tabs bar.
-    4. scroll down to github pages.
+     1. go to repos main page.
+     2. select repo want to publish.
+     3. select setting from tabs bar.
+     4. scroll down to github pages.
    
    * how to create a github page.
       1. by default github page is disabled, to activate it from pick branchs dropdown list pick main branch.
