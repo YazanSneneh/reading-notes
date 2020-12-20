@@ -1,5 +1,5 @@
 # first: Markdown
- 1. Mark down is a lightweight text format render page as html page.
+ 1. Marup up language lightweight format and give me control on text and render it as html page.
  2. the extention of markdown is either **.md** or **.markdown**
  
 ### Why I use it ?
@@ -9,13 +9,16 @@
     * unlike html, markdown give me only styling but no control on it like html.
     * unlike notepad it was build to help style my documentation.
     
- ### how to use it ?
+### how to use it ?
  *go to the link to learn more*
  **[mastering markdown]( https://guides.github.com/features/mastering-markdown/)**
 
-# when to use it?
+### when to use it?
   1. when i want to relate a document to my repo so other developers can read it easily.
   2. report bugs and issues about software.
+  
+### where To use markudown ?
+  in the main project folder, i add a **README.md** file
 
 # second: github pages.
  *  github pages allow me to share my website i created online (can be accessed on the internet like google or facebook).
