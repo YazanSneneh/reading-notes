@@ -64,9 +64,15 @@
    3. whenever we specify a file or directory on the command line it is actually a path. Also because directories are actually just a special type of file, it would be more accurate to say that a path is a means to get to a particular location in the system and that location is a file.
       
 ## Why Choose CLI over GUI ?
-points| CLI|GUI |
-----------------|
-Resource|1|
-High Precision|2|
-Repetitive Tasks|3|
-Powerful|4|
+
+ * Resource: text-based program needs very little resources of your computer
+   * CLI :  do tasks with minimum resources.
+   * GUI : Require Visual process.
+ * High Precision: 
+   * can use a specific command to target specific destinations with ease. As long as you don’t type the wrong command.
+ * Repetitive Tasks Friendly :
+    * GUI : operating system may not give you all the menus and buttons to perform all tasks. One of the reasons is safety. This leaves you overwhelmed if you have to do     repetitive tasks.
+    * CLI : handle hundreds of files within a folder, CLI enables you to use a single command to do automate the repetition easily.
+ * Powerful : Most operating systems today prevent you from messing up the system’s core process.
+    * GUI: You won’t be able to perform certain tasks which are system protected. 
+    * CLI : You will have full control over your system.
