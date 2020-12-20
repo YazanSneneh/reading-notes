@@ -7,18 +7,30 @@
      * A command line, or terminal, is a text based interface to the system. You are able to enter commands by typing them on the keyboard and 
        feedback will be given to you similarly as text.
      * It's a powerful tool it allow me to open multi pages and I do work in each one individually.
-     * shell is a part of the operating system that defines how the terminal will behave and looks after running (or executing) commands.
+     * prompt in CLI is `name@na~:`
+     * shell is inside the CLI come after prompt it's where i type commands and before.
      * echo - return which shell i am using.
+### SHELL
+ * Shell is a user interface connect between the **CLI** and **OS** responsible for processing all commands typed on CLI.
+ * Shell instruct the OS to process task assigned to do.
+ * shell scripting is ways of using the script in CLI to run certain tasks.
+ * Tasks Shell process to OS.
+   1. Work with files and directories like Navigating and manipulate them e.g. open and edit file or add and delete.
+   2. Open and Close programms e.g `yaz@admin: code .` open VScode.
+   3. Managing computer processes.
+   4. Performing repetitive tasks.
    
 ##  Shortcuts:
    * When you enter commands, they are actually stored in a history. You can traverse this history using the up and down arrow keys. So don't bother re-typing out commands you   have previously entered.
    * When you start typing a path (anywhere on the command line, you're not just limited to certain commands) you may hit the Tab key on your keyboard at any time which will  invoke an auto complete action.
-   
-### Basic Navigation
-   1. Many tasks rely on being able to get to, or reference the correct location in the system. As such, this stuff really forms the foundation of being able to work effectively in Linux.
-   
-   2. I will be moving around the system often.
-     
+
+##USING CLI
+ * most commands consist of: the command itself, the argument, and the option.
+ * command contains the instruction we want to perform, the argument tells where the command should operate and the option requests the modification of the output.
+ * there are many commands you can use with CLI, they all fall into two categories:
+    * The commands that handle the processes.
+    * The commands that handle the files.
+### Basic Navigation 
   * pwd - stands for print working directory and print the current url where I stand.
      example result : ya@a: /home/yaz
   
@@ -32,8 +44,7 @@
         3. ls -a : list all files including hidden file starting with '.'
   
   * cd - stands for change directory, it allow me to navigate around directories.
-       example : **yaz@a: cd document** will navigate me to document file
-       
+       example : **yaz@a: cd document** will navigate me to document file.
        **NOTE**: If you run the command cd without any arguments then it will always take you back to your home directory.
 
 
