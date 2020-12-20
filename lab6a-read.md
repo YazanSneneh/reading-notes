@@ -9,6 +9,7 @@
 
   1. Create a folder to put the example in called cOl, then start up your favorite code editor, and enter the text to the right.
      
+      
       var today= new Date();
       var hourNow = today.getHours();
       var greeting;
