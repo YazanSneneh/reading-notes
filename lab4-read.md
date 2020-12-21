@@ -1,5 +1,3 @@
-
-
 # A process that you can use when you are creating a new website.
   
   1. How to understand the audience your site may attract and what information they will expect to find on it.
