@@ -1,3 +1,43 @@
+# Web Pages:
+  * pages are like book or newspaper structured in a way make it easier to understand.
+  * also an commerce store has catgories and sub catgories.
+  * web pages are e-versions of newspaper and e-commerce etc...
+  
+## strucutre a webpage.
+  * Structure is very important in helping readers to understand the messages you are trying to convey and to navigate around the document.
+  * to learn how to write web pages, it is very important to understand how to structure documents.
+  * HTML describes the structure of a web page.
+### How Pages Use Structure
+  * for example newspaper:
+    * for each story, there will be a headline, some text, and possibly some images.
+    * If the article is a long piece, there may be subheadings that split the story into separate sections or quotes from those involved.
+    * Structure helps readers understand the stories in the newspaper.
+  * Web newspaper example : 
+    * The use of headings and subheadings in any document often reflects a hierarchy of information improtance.
+    * A document might start with a large heading, followed by an introduction or the most important information.
+    * Each topic might have a new paragraph, and each section can have a heading to describe what it covers.
+### HTML Describes the Structure of Pages
+  * browser window view web page that features exactly the same content as the newspaper.
+  * To describe the structure of a web page, we add code to the words we want to appear on the page, for example check this link [HTML code](https://3.bp.blogspot.com/-eyV9pGjAcvk/WAI9DOqbQvI/AAAAAAAAAGY/X3MiT7rWpmEMJOomPAsda0ruS_uQ9UpfQCLcB/s1600/Screen%2BShot%2B004.JPG).
+## HTML 
+  * HTML stands for HyperText Markup Language.
+    * HyperText refers to the fact that HTML allows you to create links that allow visitors to move from one page to another.
+    * markup language allows you to annotate text, annotations provide additional meaning to the contents of a document.
+#### Understand html elements
+  * Tags act like containers, each tag tell information about what is inside tag.
+  * Each tags have opening and closing tag, some of them self-closed tags.
+  * `<html> this tag tell browser everything inside is html code </html>`.
+  * `<head> contain information about the page and will be hidden to the user </head>`.
+  * `<body>contain html code will appear to user</body>`.
+  * `<h1>browser will understand this is header</h1>`.
+  * `<p>this is paragraph</p>`.
+
+##### Attributes Tell Us More About Elements
+  * Attributes provide additional information about the contents of an element.
+  * They appear insde the opening tag of the element.
+  * Attributes made up of two parts: a name and a value, separated by an equals sign.
+  * `<p lang="en-us">Paragraph in English</p>` tell us this paragraph writting in english.
+  * in general usually attributes used for specefic tags and few attributes are general like lang attribute.
 # A process that you can use when you are creating a new website.
   
   1. How to understand the audience your site may attract and what information they will expect to find on it.
